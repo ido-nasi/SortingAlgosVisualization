@@ -1,6 +1,17 @@
 # Sorting Algorithms Visualization
 GUI for sorting algorithms
-![image](https://user-images.githubusercontent.com/101902014/200887314-8283cb47-0383-497a-8c0b-78dd6db1f911.png)
+![sorting_picture](https://user-images.githubusercontent.com/101902014/200887573-fc67df01-0d97-4c1d-814c-8e6d20157b69.png)
 
-Usage:
-- A 
+## Usage:
+At the top of the window is the `ALGORITHM:ORDER`. You can change them using the keys.
+Make sure your `CAPS-LOCK` is pressed for the gui to work.
+
+## KEY GUIDE:
+- R - shuffle the array (columns in the gui) after a sort.
+- SPACE - start the sorting process.
+- A - Sort by ascending order.
+- D - Sort By descending order.
+- B - Bubble sort.
+- I - Insertion sort.
+- M - Merge sort.
+- Q - Quick sort.
