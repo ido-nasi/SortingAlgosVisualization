@@ -1,5 +1,7 @@
 # Sorting Algorithms Visualization
 GUI for sorting algorithms
+
+
 ![sorting_picture](https://user-images.githubusercontent.com/101902014/200887573-fc67df01-0d97-4c1d-814c-8e6d20157b69.png)
 
 ## Usage:
