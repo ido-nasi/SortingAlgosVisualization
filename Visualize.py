@@ -1,5 +1,6 @@
 import math
 import random
+import pygame
 
 from Algorithms import *
 from DrawInfo import *
